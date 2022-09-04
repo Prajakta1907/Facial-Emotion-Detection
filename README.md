@@ -1,1 +1,1 @@
-# Facial-Emotion-Detection
+This project is basically a sentiment analysis tool. It aims to classify emotions on a person's face into different categories by using deep learning. This uses CNN in keras. By using OpenCV we detect faces in the images. Collecting data, training data and testing are some of the steps followed in the project.
